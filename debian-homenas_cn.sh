@@ -2,7 +2,7 @@
 
 # 常量定义
 DEBIAN_HOMENAS_DIR="debian-homenas"
-URL_PREFIX="https://gitee.com/chnhhwz/Debian-HomeNAS/raw/main/Shell/"
+URL_PREFIX="https://gitee.com/kekylin/Debian-HomeNAS/raw/main/Shell/"
 SCRIPT_URLS=(
     "system_init.sh"
     "install_cockpit.sh"
