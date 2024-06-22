@@ -10,7 +10,7 @@ su -
 ### 2、执行脚本下载命令并自动运行（二选一）
 国内环境
   ```shell
-wget -O debian-homenas.sh -q --show-progress https://gitee.com/chnhhwz/Debian-HomeNAS/raw/main/debian-homenas_cn.sh && bash debian-homenas.sh
+wget -O debian-homenas.sh -q --show-progress https://gitee.com/kekylin/Debian-HomeNAS/raw/main/debian-homenas_cn.sh && bash debian-homenas.sh
   ```
 Github直连
   ```shell
